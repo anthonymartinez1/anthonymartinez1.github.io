@@ -32,13 +32,13 @@ h1 {
 
 #about {
     position: absolute;
-    top: 370px;
+    top: 300px;
     margin-left: 20px;
 }
 
 #aboutp {
     position: absolute;
-    top: 590px;
+    top: 520px;
     margin-left: 20px;
 }
 
@@ -50,7 +50,7 @@ ol {
 
 #aboutp2 {
     position: absolute;
-    top: 830px;
+    top: 760px;
     margin-left: 20px;
 }
 
@@ -60,13 +60,13 @@ table {
 
 #anthonyphoto {
     position: absolute;
-    top: 440px;
+    top: 370px;
     margin-left: 20px
 }
 
 #anthonyphoto2 {
     position: absolute;
-    top: 440px;
+    top: 370px;
     margin-left: 150px
 }
 
