@@ -1,0 +1,75 @@
+
+
+#body1 {
+    background-color: rgb(233, 233, 233);
+}
+
+#body2 {
+    background-color: rgb(233, 233, 233);
+}
+
+#body3 {
+    background-color: rgb(233, 233, 233);
+}
+
+h1 {
+    position: absolute;
+    top: 370px;
+    margin-left: 20px;
+}
+
+#ip1 {
+    position: absolute;
+    top: 430px;
+    margin-left: 20px;
+}
+
+#ip2 {
+    position: absolute;
+    top: 520px;
+    margin-left: 20px;
+}
+
+#about {
+    position: absolute;
+    top: 370px;
+    margin-left: 20px;
+}
+
+#aboutp {
+    position: absolute;
+    top: 590px;
+    margin-left: 20px;
+}
+
+ol {
+    position: absolute;
+    top: 545px;
+    margin-left: 20px;
+}  
+
+#aboutp2 {
+    position: absolute;
+    top: 830px;
+    margin-left: 20px;
+}
+
+table {
+    background-color:rgb(255, 255, 255)
+}
+
+#anthonyphoto {
+    position: absolute;
+    top: 440px;
+    margin-left: 20px
+}
+
+#anthonyphoto2 {
+    position: absolute;
+    top: 440px;
+    margin-left: 150px
+}
+
+#anthonybanner {
+    width: 800px;
+}
