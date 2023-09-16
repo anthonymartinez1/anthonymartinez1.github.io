@@ -20,13 +20,13 @@ h1 {
 
 #ip1 {
     position: absolute;
-    top: 430px;
+    top: 370px;
     margin-left: 20px;
 }
 
 #ip2 {
     position: absolute;
-    top: 520px;
+    top: 450px;
     margin-left: 20px;
 }
 
@@ -72,4 +72,9 @@ table {
 
 #anthonybanner {
     width: 800px;
+}
+
+#helloworld {
+    position:absolute;
+    top: 300px;
 }
